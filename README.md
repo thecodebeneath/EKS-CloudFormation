@@ -23,4 +23,4 @@ https://kubernetes.github.io/ingress-nginx/deploy/#quick-start
 kubectl get service ingress-nginx-controller --namespace=ingress-nginx
 
 # Architecture
-![Architecture](./Images/EKS.png)
+![Architecture](./Images/EKS-1.png)
